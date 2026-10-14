@@ -12,4 +12,5 @@ What I learned:
 This project helped me understand how tuples, lists, and loops work together. I also learned how to check user input and safely add or remove items from a list.
 
 Technology: Python
+
 Interface: Terminal
